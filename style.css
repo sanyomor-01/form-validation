@@ -53,11 +53,12 @@ label{
 
 input{
     background-color:#373737 ;
-    padding: 8px 1rem;
+    padding: 4px 1rem;
     outline: none;
     border: 1px solid #7A7A7A;
     border-radius: 4px;
     color: white;
+    height: 30px;
 }
 input,input::placeholder{
     font-size: 12px;
